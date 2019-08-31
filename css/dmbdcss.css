@@ -1,0 +1,27 @@
+body {
+  background-color: #fff; cursor: default; background-image: url("https://github.com/dmbd2019/main/blob/master/images/bgnew2.jpg?raw=true");
+  background-repeat:repeat;
+  background-size:tile;
+}
+
+h1 {
+  font-family: aller; font-style: bold; font-size: 25pt;
+}
+
+p {
+  font-family: aller; font-style: normal; font-size: 10pt;
+}
+
+svg{
+  font: bold 50px 'Aller';
+  width: 50%;
+  height: 50px;
+}
+
+text{
+  fill: none;
+  stroke: white;
+  stroke-width:2px;
+  // stroke-dasharray: 2,2;
+  stroke-linejoin: round;
+}
