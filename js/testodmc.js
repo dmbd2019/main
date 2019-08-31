@@ -6,3 +6,11 @@ var interval = setInterval(function() {
 
     if(x >= 50) clearInterval(interval);
 }, 20);
+
+
+el = document.getElementById('lol');
+el.onmouseover = function(){el.click();}
+
+el.onclick = function(){
+    el.style.background = 'red';
+}
