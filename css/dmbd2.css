@@ -1,0 +1,22 @@
+body {
+  background-color: #fff; cursor: default;
+  background-repeat:repeat;
+  background-size:tile;
+  span style="background-color: #FFFFFF";
+}
+
+h1 {
+  font-family: aller; font-style: bold; font-size: 25pt;
+}
+
+p {
+  font-family: aller; font-style: normal; font-size: 10pt; style="text-align:center";
+}
+
+
+
+
+.strokeme {
+  color: white;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
