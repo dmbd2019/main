@@ -19,7 +19,7 @@ svg{
 }
 
 text{
-  fill: none;
+  fill: black;
   stroke: white;
   stroke-width:2px;
   // stroke-dasharray: 2,2;
