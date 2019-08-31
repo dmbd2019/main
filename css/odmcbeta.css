@@ -12,6 +12,10 @@ p {
   font-family: aller; font-style: normal; font-size: 10pt;
 }
 
+p2 {
+  font-family: aller; font-style: normal; font-size: 15pt;
+}
+
 svg{
   font: bold 10px 'Aller';
   width: 10%;
